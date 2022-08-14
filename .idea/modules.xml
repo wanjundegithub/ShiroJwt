@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShiroAuth/ShiroAuth.iml" filepath="$PROJECT_DIR$/ShiroAuth/ShiroAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShiroJwt.iml" filepath="$PROJECT_DIR$/ShiroJwt.iml" />
+    </modules>
+  </component>
+</project>
